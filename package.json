@@ -1,0 +1,13 @@
+{
+    "name": "cinevers",
+    "version": "1.1.0",
+    "description": "Cinevers - Website Katalog, Rekomendasi & Streaming Film dengan Gemini AI & TMDB API",
+    "type": "module",
+    "scripts": {
+        "start": "node server.js",
+        "dev": "node server.js"
+    },
+    "keywords": ["movie", "gemini-ai", "tmdb", "streaming", "pti"],
+    "author": "",
+    "license": "MIT"
+}
